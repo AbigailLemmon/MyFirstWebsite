@@ -3,16 +3,23 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/GradProfile.jpeg
 ---
 
 :::{#me}
 
-## Goals
+## Goals:
+My goal is to get this website to work! Then I could maybe use this in the future <3
 
-## Education
+## Education:
+B.S. Marine, Estuarine, and Freshwater Biology degree from the University of New Hampshire (2023)
 
-## Experience
+## Experience:
+So much.
+
+## Papers:
+I got like 2.
+
 
 :::
 
