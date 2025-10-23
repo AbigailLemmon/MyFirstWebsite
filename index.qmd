@@ -6,21 +6,24 @@ about:
   image: img/GradProfile.jpeg
 ---
 
-:::{#me}
-
+::: {#me}
 ## Goals:
-My goal is to get this website to work! Then I could maybe use this in the future <3
+
+~~My goal is to get this website to work! Then I could maybe use this in the future \<3~~
+
+Goal accomplished!
 
 ## Education:
+
 B.S. Marine, Estuarine, and Freshwater Biology degree from the University of New Hampshire (2023)
 
 ## Experience:
+
 So much.
 
 ## Papers:
+
 I got like 2.
-
-
 :::
 
 Thanks for checking out my web site!
