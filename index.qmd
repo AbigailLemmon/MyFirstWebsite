@@ -9,21 +9,63 @@ about:
 ::: {#me}
 ## Goals:
 
-~~My goal is to get this website to work! Then I could maybe use this in the future \<3~~
+Goals for BIOL 806:
 
-Goal accomplished!
+-   ~~My goal is to get this website to work!~~ **Goal accomplished!**
+
+-   Learn how to do stats analysis in R
+
+-   Complete the final assignment on time!
+
+Goals for my master's degree:
+
+-   Graduate with a good GPA
+
+-   Go to at least one conference!
+
+-   Apply for PhD programs
 
 ## Education:
 
-B.S. Marine, Estuarine, and Freshwater Biology degree from the University of New Hampshire (2023)
+B.S. Marine, Estuarine, and Freshwater Biology degree from the University of New Hampshire (2023).
 
 ## Experience:
 
-So much.
+**Watershed & Aquatic Research & Monitoring Laboratory,** Fredericton, NB 
+
+-   Role: Recipient, Fulbright Research Grant – Mitacs-Globalink Program Summer Intern
+
+-   Timeframe: June 2023 – August 2023
+
+**UNH Benthic Ecology Laboratory**, Durham, NH
+
+-   Role: Research Intern
+
+-   Timeframe: September 2022 – May 2023
+
+**Jackson Estuarine Laboratory**,Adams Point, NH
+
+-   Role: Research Assistant
+
+-   Timeframe: September 2021 – December 2021
+
+**Wells National Estuarine Research Reserve (NERR)**,Wells, ME			     
+
+-   Role: Hatchery Manager and Research Assistant
+
+-   Timeframe: Summers of 2021 and 2022
+
+**Watson Laboratory at UNH**,Durham, NH			    		          
+
+-   Role: Research Intern
+
+-   Timeframe: September 2019 – May 2020
 
 ## Papers:
 
-I got like 2.
+Goldstein, J.S., Gutzler, B.C., **Lemmon, A.**, Carloni, J.T., Betka, M., Jury, S.H. (2024). Long distance swimmers in warming waters: Active transport in postlarval American lobsters (Homarus americanus) in the context of climate change in the Gulf of Maine. Fisheries Research 278. <https://doi.org/10.1016/j.fishres.2024.107112>.
+
+Watson, W.H., **Lemmon, A.G.**, Chabot, C.C. (2022). Impacts of biomedical bleeding on locomotion and mating behavior in the horseshoe crab Limulus polyphemus. Marine Ecology Progress Series 699:65-74. <https://doi.org/10.3354/meps14154>.
 :::
 
 Thanks for checking out my web site!

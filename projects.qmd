@@ -2,8 +2,10 @@
 title: "Projects"
 ---
 
-## Project 1
+## Project 1: CREATE 2025
 
-## Project 2
+Goal: To understand the cumulative effects of temperature and anthropogenic noise on the settlement-stage larval blue mussel (*Mytilus Edulis*).
 
-## Project 3
+## Project 2: TBD
+
+## Project 3: TBD
